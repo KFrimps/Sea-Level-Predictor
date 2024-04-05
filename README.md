@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-This project visualizes time series data using a line chart, bar chart, and box plots. Pandas, Matplotlib, and Seaborn were used to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations helps you understand the patterns in visits and identify yearly and monthly growth.
+This project analyzes a dataset of the global average sea level change since 1880. The data was used to predict the sea level change through year 2050.
 <br />
 
 
@@ -17,9 +17,8 @@ This project visualizes time series data using a line chart, bar chart, and box 
 
 - <b>Pandas</b>
 - <b>Matplotlib</b>
-- <b>Seaborn</b>
 
- ### [Click to visit code](https://freecodecam-boilerplate-di1chfcmrzx.ws-eu110.gitpod.io/)
+ ### [Click to visit code](https://freecodecam-boilerplate-c95v4k8y42w.ws-eu110.gitpod.io/)
 
 
 <!--
